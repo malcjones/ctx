@@ -1,0 +1,13 @@
+Given the codebase shown in the context above (with filenames as headings), please list a set of potential improvements or optimizations that could enhance the code's performance, readability, maintainability, or adherence to best practices. I would like to understand the reasons for each suggested improvement and how they can be implemented.
+
+Options:
+
+Explain and Apply One by One: Provide a detailed explanation for each improvement, and wait for my input on whether to apply each one before proceeding to the next.
+
+Apply All at Once: Apply all the suggested improvements at once, with a brief explanation of why each change is beneficial.
+
+Selective Implementation: List all the improvements and allow me to choose which ones to apply. For the selected ones, provide detailed implementation steps.
+
+General Explanation: Provide a high-level explanation of why each improvement would be beneficial, along with brief instructions on how to implement them without making changes directly.
+
+Please proceed based on the option you think best suits the nature of the improvements you will suggest, or if unsure, ask for my preference before proceeding.
